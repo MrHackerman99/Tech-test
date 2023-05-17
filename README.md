@@ -19,6 +19,6 @@ I wasn't able to get the unit testing set up as i have never set one up before j
 
 I wasn't able to get any typescript in as i had to focus on other areas but i have put in proptyping on my button and header component to show that i atleast understand static typing 
 
-Finally the reason the tech-test is called v2 is beacuse i had a v1 but i majorly messed up the dependencies and had to abandon it
+Finally the reason the tech-test is called v2 is beacuse i had a v1 but i changed the dependencies 
 
 (Side note as i'm sure you already know this but to start my app just cd to my-app, npm i, npm start)
